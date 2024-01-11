@@ -17,6 +17,8 @@ I am actively seeking exciting full-time opportunities in Software Development, 
 - **CI/CD**: GitHub Actions
 - **Cloud Computing Skills**: Amazon S3, Amazon EC2, and Amazon RDS
 - **Operating Systems**: Linux and Windows
+- **Messaging/Streaming skills**: Apache Kafka
+
 
 Coding has become a hobby that I am deeply passionate about. 🖥️
 
